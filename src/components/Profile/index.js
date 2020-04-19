@@ -36,6 +36,7 @@ function Profile() {
               <img
                 className="w-6 h-6 rounded-full mx-auto"
                 src="https://img.icons8.com/windows/50/000000/add-user-male.png"
+                alt="xxx"
               />
             </div>
             <div className="pl-3">
